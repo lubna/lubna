@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1>Hello, I'm Lubna.</h1>
 
-<!--
-**lubna/lubna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩🏼‍💻 Working as a Lead Front-end Developer
+- ✍️ Blogging on [Lubna.dev](https://lubna.dev)
+- 📱 Posting [CSS Tips & Tricks on Instagram](https://www.instagram.com/lubnadev/)
+- 🗔 Sharing [snippets on Codepen](https://codepen.io/lubna)
+- 💬 Ask me about Front-end Development, CSS, Semantic HTML & Design Systems
+- 🎤 Open to speaking & podcast opportunities
+- 📫 [Get in touch](https://lubna.dev/contact/)
+- 👉 [Follow on Twitter](https://twitter.com/lubnadev)
+- 🎨 Get my [VS Code theme](https://marketplace.visualstudio.com/items?itemName=lubnadev.lubnadev-theme)
