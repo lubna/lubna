@@ -6,7 +6,7 @@
 
 📱 Posting [CSS Tips & Tricks on Instagram](https://www.instagram.com/lubnadev/)
 
-🗔 Sharing [snippets on Codepen](https://codepen.io/lubna)
+💻 Sharing [snippets on Codepen](https://codepen.io/lubna)
 
 💬 Ask me about Front-end Development, CSS, Semantic HTML & Design Systems
 
