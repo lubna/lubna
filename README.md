@@ -6,6 +6,4 @@
 - 🗔 Sharing [snippets on Codepen](https://codepen.io/lubna)
 - 💬 Ask me about Front-end Development, CSS, Semantic HTML & Design Systems
 - 🎤 Open to speaking & podcast opportunities
-- 📫 [Get in touch](https://lubna.dev/contact/)
-- 👉 [Follow on Twitter](https://twitter.com/lubnadev)
 - 🎨 Get my [VS Code theme](https://marketplace.visualstudio.com/items?itemName=lubnadev.lubnadev-theme)
