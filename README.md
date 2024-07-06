@@ -1,6 +1,6 @@
 <h1>Hello, I'm Lubna.</h1>
 
-👩🏼‍💻 Working as a Principal Front-end Developer
+👩🏼‍💻 Working as a Front-end Technical Lead
 
 ✍️ Blogging on [Lubna.dev](https://lubna.dev)
 
